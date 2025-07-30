@@ -1,0 +1,184 @@
+{
+  "questions": [
+    {
+      "question": "What do most people say when their internet stops working?",
+      "options": ["😤 Not again!", "📞 Hello?", "📶 Is it the router?", "🙄 All of the above"],
+      "answer": "🙄 All of the above",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do people often forget after entering a room?",
+      "options": ["🪟 Why they came", "📱 Their phone", "🪑 To sit", "🧃 To get water"],
+      "answer": "🪟 Why they came",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Where do most people keep plastic bags?",
+      "options": ["🗃️ In a drawer", "🛍️ In another plastic bag", "🛏️ Under the bed", "🚪 Behind the door"],
+      "answer": "🛍️ In another plastic bag",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What’s something people pretend to understand during small talk?",
+      "options": ["📈 Stock market", "🌦️ Weather", "🎬 Movie plot", "📚 Latest news"],
+      "answer": "📈 Stock market",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What’s the most ignored household chore?",
+      "options": ["🧺 Folding laundry", "🧹 Sweeping", "🧼 Washing dishes", "🚽 Cleaning bathroom"],
+      "answer": "🧺 Folding laundry",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What do people often open the fridge for and forget why?",
+      "options": ["🥛 Milk", "👀 Just to stare", "🍫 Snacks", "🍎 Fruits"],
+      "answer": "👀 Just to stare",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What’s something people say but rarely mean?",
+      "options": ["📞 I'll call you back", "📅 Let's catch up soon", "⏱️ I'm 5 minutes away", "🛒 I’ll buy it later"],
+      "answer": "📅 Let's catch up soon",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What’s the first thing people check after waking up?",
+      "options": ["🛏️ The ceiling", "⏰ The clock", "📱 Their phone", "💧 Water bottle"],
+      "answer": "📱 Their phone",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which sound instantly wakes up a desi family member?",
+      "options": ["📺 Loud TV", "💤 Snoring", "🔐 Unlocking door", "🍳 Kadai sizzling"],
+      "answer": "🔐 Unlocking door",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which item mysteriously disappears the most?",
+      "options": ["🧦 Socks", "🔑 Keys", "📱 Charger", "💳 Wallet"],
+      "answer": "🔑 Keys",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What’s a lie people often tell themselves at night?",
+      "options": ["⏰ Just 5 more minutes", "🌅 I’ll wake up early", "📵 No phone now", "😌 Just this episode"],
+      "answer": "⏰ Just 5 more minutes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What’s something people do while pretending to listen?",
+      "options": ["🤔 Nod repeatedly", "🧠 Say 'Hmm'", "📱 Check phone", "👀 Look around"],
+      "answer": "🤔 Nod repeatedly",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Why do most people hit the elevator button repeatedly?",
+      "options": ["⚡ It makes it faster", "🤷 Habit", "😠 Impatience", "🧠 Just in case"],
+      "answer": "😠 Impatience",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What's a common excuse for not going to a social event?",
+      "options": ["😷 Not feeling well", "📚 Too much work", "💤 Need rest", "🚌 No transport"],
+      "answer": "😷 Not feeling well",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What’s something most people regret saying too quickly?",
+      "options": ["✔️ Yes", "❌ No", "💬 Maybe", "🤐 Tell me more"],
+      "answer": "✔️ Yes",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What do people say after misplacing their phone?",
+      "options": ["📱 Call my number!", "👀 I just had it!", "😖 Not again!", "🧠 I’m sure it was here"],
+      "answer": "👀 I just had it!",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which activity is often started with 'Just 5 minutes'?",
+      "options": ["🎮 Gaming", "📺 Watching reels", "📖 Reading", "📦 Online shopping"],
+      "answer": "📺 Watching reels",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What’s something that always takes longer than expected?",
+      "options": ["🧳 Packing", "🍳 Cooking", "🚶 Quick nap", "📂 Finding documents"],
+      "answer": "🍳 Cooking",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What usually causes awkward silence in a group chat?",
+      "options": ["😐 Bad joke", "😶 Unrelated reply", "👻 Someone leaves", "⏰ Late response"],
+      "answer": "😐 Bad joke",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What’s something we all say but never mean?",
+      "options": ["📞 Call me anytime!", "📧 I’ll email you", "🤝 Let’s connect soon", "✍️ I’ll write it down"],
+      "answer": "🤝 Let’s connect soon",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which emotion do most people fake in public?",
+      "options": ["😊 Happiness", "😠 Anger", "😟 Sadness", "😐 Confidence"],
+      "answer": "😊 Happiness",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What do people often blame when they send a wrong text?",
+      "options": ["📱 Autocorrect", "🧠 Distraction", "👀 Fat fingers", "📶 Poor signal"],
+      "answer": "📱 Autocorrect",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What's something most people do immediately after someone leaves a room?",
+      "options": ["🗣️ Talk about them", "😮 Breathe out", "📱 Check phone", "📺 Change channel"],
+      "answer": "🗣️ Talk about them",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s something people wish they were better at but never try to improve?",
+      "options": ["🕒 Time management", "💬 Public speaking", "🍳 Cooking", "🧠 Memory"],
+      "answer": "🕒 Time management",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s something people secretly judge others for?",
+      "options": ["👞 Footwear", "📱 Phone brand", "🧍‍♂️ Posture", "🧢 Style"],
+      "answer": "👞 Footwear",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which situation makes you suddenly forget everything?",
+      "options": ["📞 Job interview call", "🙋 Being asked a question", "🔔 Doorbell rings", "📣 Public announcement"],
+      "answer": "🙋 Being asked a question",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s the hardest part of growing up?",
+      "options": ["🧾 Paying bills", "⏰ Waking early", "👨‍💼 Acting responsible", "🍳 Cooking meals"],
+      "answer": "⏰ Waking early",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s a task everyone postpones despite urgency?",
+      "options": ["🧺 Laundry", "📧 Replying to emails", "🧾 Submitting forms", "📞 Making that call"],
+      "answer": "🧺 Laundry",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s something you buy and then instantly regret?",
+      "options": ["🧢 Random clothes", "🎮 Subscription", "🍽️ Fancy food", "🎧 Headphones on sale"],
+      "answer": "🎮 Subscription",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What’s something people always overestimate?",
+      "options": ["⏱️ Their free time", "🧠 Their memory", "📈 Their productivity", "💸 Monthly savings"],
+      "answer": "⏱️ Their free time",
+      "difficulty": "hard"
+    }
+  ]
+}
