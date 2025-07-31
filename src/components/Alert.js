@@ -14,7 +14,7 @@ const toastIcons = {
 const toastClasses = {
   success: "border-emerald-100 bg-emerald-50 dark:border-emerald-900 dark:bg-emerald-950",
   error: "border-red-100 bg-red-50 dark:border-red-900 dark:bg-red-950",
-  warning: "border-amber-100 bg-amber-50 dark:border-amber-900 dark:bg-amber-950 text-white md:text-white",
+  warning: "border-amber-100 bg-amber-50 dark:border-amber-900 dark:bg-amber-950 text-black md:text-white",
   info: "border-blue-100 bg-blue-50 dark:border-blue-900 dark:bg-blue-950",
 };
 

@@ -6,7 +6,7 @@
 
 
 .web-title {
-  @apply text-[2.5rem] m-[10px_5px] p-[5px] flex justify-center items-center relative text-[antiquewhite] font-normal font-henny;
+  @apply text-[2.5rem] m-[10px_5px] p-[5px] flex justify-center items-center relative !text-[antiquewhite] font-normal font-henny;
 }
 
 .footer {
